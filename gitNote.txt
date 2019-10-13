@@ -1,0 +1,40 @@
+Alternate of Git(Distributed Version Control System(DVCS))
+1.Perforce
+2.Mercurial
+
+Git command:
+//check git version
+git --version
+
+//for help git purpose
+
+git help
+
+//to check any git initialize
+
+git status
+
+// to git initialize
+
+git init
+
+
+//create file
+
+touch file name
+
+//file add to git
+
+git add file_name  (for a single file add to git)
+git add .          (for all file or folder which you entered in git)
+
+
+
+
+//to initialize user name
+
+git config --global user.name
+
+//to initialize email 
+
+git config --global user.email
